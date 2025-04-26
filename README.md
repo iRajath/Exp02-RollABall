@@ -73,7 +73,7 @@ public class NewMonoBehaviour : MonoBehaviour
 ~~~
 
 ## OUTPUT :
-![alt text](https://github.com/Unknown-guy-369/Exp02-RollABall/blob/main/image.png)]
+![alt text](exp2screenshot.png)
 
 ## Result
 Thus the experiment was successful. The ball moved as expected using Rigidbody physics and force-based movement.
